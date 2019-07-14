@@ -1,0 +1,1 @@
+BaseArray클래스 (기본클래스)에서 put get getCapacity 함수를 선언 및 구현. Mystack 클래스는 BaseArray클래스를 상속받는 파생클래스. Push, capacity, length, pop함수 선언 및 구연. ( main함수에서 사용) BaseArray클래스의 접근지정자가 protected와 public인 함수 접근 가능. main에서 용량 100의 스택을 생성하고 5개의 정수를 푸시한다. 그리고 스택의 용량과 스택의 크기를 출력한후 스택의 모든 원소를 팝하여 출력. 마지막으로 stack full인 경우와 stack empty인 경우 출력 => 스택에 용량만큼 푸시한 후 출력(full), 다시 용량만큼 팝하여 출력(empty) 
